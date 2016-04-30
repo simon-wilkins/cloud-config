@@ -1,2 +1,2 @@
 # cloud-config
-Cloud Configuration
+Cloud Configuration Project
